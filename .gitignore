@@ -13,3 +13,13 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# idea
+.idea
+.read
+
+# db file
+data4life.db
+
+# tokens file
+tokens.txt
